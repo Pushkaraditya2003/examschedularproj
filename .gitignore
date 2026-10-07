@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+logs/*.json
+!logs/.gitkeep
+venv/
+.venv/
+exam-crisis/
